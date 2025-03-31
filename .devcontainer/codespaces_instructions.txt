@@ -1,0 +1,4 @@
+################################################################################
+If you are using GitHub Codespaces, run the following command to run the server:
+hugo server --baseURL=/ --appendPort=false -D
+################################################################################
