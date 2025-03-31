@@ -1,13 +1,13 @@
 # Modified from the original by Eureka ESR contributors.
-baseURL: 'https://example.org/'
-title: Eureka ESR Starter
+baseURL: 'https://hugo-eureka-esr.github.io/'
+title: Eureka ESR Documentation
 
 theme: github.com/hugo-eureka-esr/hugo-eureka-esr
 # If you cannot access the Github mirror, please let us know at https://github.com/orgs/hugo-eureka-esr/discussions/15
 
-pagination.pagerSize: 3
+pagination.pagerSize: 5
 copyright: >
-  &copy; 2025 <a href="https://example.org/">Your name</a>
+  &copy; 2025 <a href="https://example.org/">Eureka ESR contributors</a>
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
