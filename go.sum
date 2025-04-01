@@ -1,2 +1,6 @@
-github.com/hugo-eureka-esr/hugo-eureka-esr v0.9.7 h1:zWUPB00zFxTKO+IRIM0ml7o2bnWcdOghmJzZthr2tcE=
-github.com/hugo-eureka-esr/hugo-eureka-esr v0.9.7/go.mod h1:1L2EJzIBIZdBKSumPccqrKdjVR9ORpWGvZJCLRmluBM=
+github.com/hugo-eureka-esr/hugo-eureka-esr v0.9.8 h1:tB3LRouAthRYk/vB9pk8KgYkyp+Jgp/7Ek/oUS+/Bvo=
+github.com/hugo-eureka-esr/hugo-eureka-esr v0.9.8/go.mod h1:1L2EJzIBIZdBKSumPccqrKdjVR9ORpWGvZJCLRmluBM=
+github.com/hugo-eureka-esr/hugo-marble/search v0.1.0 h1:s/cY8KHHOSf1p0dSfKKcoknA/6FO5fq3Z7xeaREfDGs=
+github.com/hugo-eureka-esr/hugo-marble/search v0.1.0/go.mod h1:RzTvjRWEWcZ3nsy8PXfBs24NG1V39+7CCzbtDfVaT7w=
+github.com/hugo-eureka-esr/hugo-marble/utils v0.1.0 h1:ERW5E3+uAMkKpSBB7dixny6kXaO+Cq8Peg6L5uLRgIc=
+github.com/hugo-eureka-esr/hugo-marble/utils v0.1.0/go.mod h1:9WcIwHYwqm/gwRGsj0mbWEXCTlX2cBJSPM67+474kKo=
