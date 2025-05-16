@@ -1,6 +1,6 @@
 ---
-title: Chapter 2
-description: Chapter 2 of example doc
+title: Getting started locally
+description:
 toc: true
 authors:
 tags:
@@ -8,7 +8,7 @@ categories:
 series:
 date: '2020-10-16'
 lastmod: '2020-10-16'
-draft: false
+draft: true
 ---
 
 This is chapter 2 of example doc.
